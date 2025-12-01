@@ -8,7 +8,7 @@
         "dev": "nodemon app.js"
     },
     "dependencies": {
-        "express": "5.0.0",
+        "express": "5.2.0",
         "multer": "^2.0.0",
         "extract-colors": "^2.0.0",
         "get-pixels": "^3.0.3",
